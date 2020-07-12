@@ -1,16 +1,21 @@
-### Hi there 👋
+# I write code for a living
 
-<!--
-**JonnoFTW/jonnoftw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at YourAnswer.io
+- 💬 Ask me about my PhD thesis
+- 📫 Reach me on irc: jonno_ftw on freenode
 
-Here are some ideas to get you started:
+Most of the code from my PhD is here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here's a short list of things I know:
+
+* Android with Java
+* Python:
+  - Flask
+  - Pyramid
+  - Nupic
+  - Numpy/matplotlib/scipy/sklearn/opencv
+  - Hyperas/hyperopt
+  - CAN
+* Javascript:
+  - jQuery
+  - Ember
