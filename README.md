@@ -1,6 +1,6 @@
 # I write code for a living
 
-- 🔭 I’m currently working at YourAnswer.io
+- 🔭 I’m currently working at YourAnswer.io on a variety of projects including data processing and presentation, machine learning, amongst other things
 - 💬 Ask me about my PhD thesis
 - 📫 Reach me on irc: jonno_ftw on freenode
 
