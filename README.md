@@ -1,6 +1,6 @@
 # I write code for a living
 
-- 🔭 I’m currently working at X2M Connect 
+- 🔭 I’m currently working
 - 💬 Ask me about my PhD thesis
 - 📫 Reach me on irc: jonno_ftw on irc.libera.chat
 
